@@ -1,1 +1,3 @@
 this is a new file
+adding some more text
+adding a third line of text
